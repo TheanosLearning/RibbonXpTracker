@@ -117,7 +117,7 @@
 | Sawdust                   	| 100  	| Killed 5 enemies with a Buzzkill in a Versus match.                                                   	|
 | Smooth Operator           	| 75  	| Got the highest kill/death ratio in a Versus match.                                                   	|
 | Smorgasbord               	| --  	| Killed an enemy with each weapon in Arms Race.                                                        	|
-| So Close                  	| --  	| Died within one second of self-reviving in Versus.                                                    	|
+| So Close                  	| 100  	| Died within one second of self-reviving in Versus.                                                    	|
 | Solid                     	| 50  	| Had more kills than deaths in a Versus match.                                                         	|
 | Sorry, Charlie            	| 50  	| Killed an enemy within 2 seconds of that enemy receiving a new gun in Arms Race.                      	|
 | Special Delivery          	| 25  	| Killed an enemy with a bag-n-tag in Versus or Horde.                                                  	|

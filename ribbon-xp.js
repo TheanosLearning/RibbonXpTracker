@@ -40,7 +40,7 @@ if (window.location.href.includes(gearsStatsUrl)) {
     ribbonXP.set('RepairMan', 50);             ribbonXP.set('RingKing', 100);          ribbonXP.set('RingMaster', 50);
     ribbonXP.set('SleightOfHand', 25);         ribbonXP.set('BulletMagnet', 150);      ribbonXP.set('Sacrifice', 75);
     ribbonXP.set('Sapper', 100);               ribbonXP.set('Sawdust', 100);           ribbonXP.set('SmoothOperator', 75);
-    ribbonXP.set('Smorgasbord', null);         ribbonXP.set('SoClose', null);          ribbonXP.set('Solid', 50);
+    ribbonXP.set('Smorgasbord', null);         ribbonXP.set('SoClose', 100);           ribbonXP.set('Solid', 50);
     ribbonXP.set('SorryCharlie', 50);          ribbonXP.set('SpecialDelivery', 25);    ribbonXP.set('SprayAndPray', 50);
     ribbonXP.set('StabEm', 75);                ribbonXP.set('StandupGuy', 50);         ribbonXP.set('StayDown', null);
     ribbonXP.set('Observer', 100);             ribbonXP.set('Survivor', 25);           ribbonXP.set('SwiftVengeance', 50);
