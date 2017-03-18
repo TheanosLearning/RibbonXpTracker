@@ -124,7 +124,7 @@
 | Spray and Pray            	| 50  	| Had the most blindfire kills in Versus or Horde.                                                      	|
 | Stab Em                   	| 75  	| Killed an enemy with a knife execution after a close cover combat move.                               	|
 | Standup Guy               	| 50  	| Did not go DBNO nor die as the leader in a Guardian match.                                            	|
-| Stay Down                 	| --  	| Had more downs than kills in a Versus match.                                                          	|
+| Stay Down                 	| 25  	| Had more downs than kills in a Versus match.                                                          	|
 | Supervisor                	| 100 	| Completed a wave with no kills.                                                                       	|
 | Survivor                  	| 25  	| Had the most self-revives in a Versus round.                                                          	|
 | Swift Vengeance           	| 50  	| Killed the last enemy who killed you in a Versus match.                                               	|

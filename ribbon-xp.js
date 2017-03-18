@@ -42,7 +42,7 @@ if (window.location.href.includes(gearsStatsUrl)) {
     ribbonXP.set('Sapper', 100);               ribbonXP.set('Sawdust', 100);           ribbonXP.set('SmoothOperator', 75);
     ribbonXP.set('Smorgasbord', null);         ribbonXP.set('SoClose', 100);           ribbonXP.set('Solid', 50);
     ribbonXP.set('SorryCharlie', 50);          ribbonXP.set('SpecialDelivery', 25);    ribbonXP.set('SprayAndPray', 50);
-    ribbonXP.set('StabEm', 75);                ribbonXP.set('StandupGuy', 50);         ribbonXP.set('StayDown', null);
+    ribbonXP.set('StabEm', 75);                ribbonXP.set('StandupGuy', 50);         ribbonXP.set('StayDown', 25);
     ribbonXP.set('Observer', 100);             ribbonXP.set('Survivor', 25);           ribbonXP.set('SwiftVengeance', 50);
     ribbonXP.set('TeamPlayer', 50);            ribbonXP.set('Cleaner', 100);           ribbonXP.set('TheDouble', 100);
     ribbonXP.set('TheTriple', 125);            ribbonXP.set('TheQuad', 150);           ribbonXP.set('TheQuinn', 175);
