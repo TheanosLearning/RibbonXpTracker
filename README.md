@@ -1,7 +1,7 @@
 # RibbonXpTracker
 
-#### Saves the total XP you earn from ribbons to local storage. Currently only Horde ribbon XPs are known.
-#### Please submit a pull request if you are able to contribute any values.
+#### Saves the total XP you earn from ribbons to local storage. Currently missing XP values for 11 ribbons.
+#### Please report any missing XP values in the gearsofwar forums: http://bit.ly/2nmtxro
 
 | Display Name              	| XP  	| Description                                                                                           	|
 |---------------------------	|-----	|-------------------------------------------------------------------------------------------------------	|
