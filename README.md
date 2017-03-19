@@ -1,7 +1,7 @@
 # RibbonXpTracker
 
 #### Saves the total XP you earn from ribbons to local storage. Currently missing XP values for 11 ribbons.
-#### Please report any missing XP values in the gearsofwar forums: http://bit.ly/2nmtxro
+#### Please report any missing XP values in my Ribbon XP thread: http://bit.ly/2nmtxro
 
 | Display Name              	| XP  	| Description                                                                                           	|
 |---------------------------	|-----	|-------------------------------------------------------------------------------------------------------	|
