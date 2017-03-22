@@ -2,7 +2,7 @@
 
 ![ribbons](https://github.com/TheanosLearning/RibbonXpTracker/raw/master/images/ribbons.jpg)
 
-#### Saves the total XP you earn from ribbons to local storage. Currently missing XP values for 11 ribbons.
+#### Saves the total XP you earn from ribbons to local storage. Currently missing XP values for 10 ribbons.
 #### Please report any missing XP values in my Ribbon XP thread: http://bit.ly/2nmtxro
 
 | Display Name              	| XP  	| Description                                                                                           	|
@@ -43,7 +43,7 @@
 | Equal Opportunity         	| 50  	| Killed one of each enemy type in a Horde wave.                                                        	|
 | Evasive                   	| 100 	| Took the least amount of damage in Versus or Horde.                                                   	|
 | Executioner               	| 125  	| Got the most executions in a Versus match.                                                            	|
-| Eyes On The Prize         	| --  	| Earned the most ring points in King of the Hill.                                                      	|
+| Eyes On The Prize         	| 75  	| Earned the most ring points in King of the Hill.                                                      	|
 | FIFO                      	| 150  	| Died first in a Versus round.                                                                         	|
 | Final Word                	| 50  	| Got the final kill in Versus or Horde.                                                                	|
 | Financier                 	| 150 	| Deposited 5000 power into the Fabricator.                                                             	|
