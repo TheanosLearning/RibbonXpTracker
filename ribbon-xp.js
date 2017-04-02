@@ -36,7 +36,7 @@ if (window.location.href.includes(gearsStatsUrl)) {
     ribbonXP.set('NotToday', null);            ribbonXP.set('Ole', null);              ribbonXP.set('RoadieRun', 25);
     ribbonXP.set('OurHouse', 50);              ribbonXP.set('OutFromUnder', 100);      ribbonXP.set('Pacifist', null);
     ribbonXP.set('PhatLoot', 100);             ribbonXP.set('Pioneer', 50);            ribbonXP.set('Pistoleer', 75);
-    ribbonXP.set('PointMan', 125);             ribbonXP.set('FieldStripper', 75);      ribbonXP.set('ComebackKids', null);
+    ribbonXP.set('PointMan', 125);             ribbonXP.set('FieldStripper', 75);      ribbonXP.set('ComebackKids', 50);
     ribbonXP.set('RepairMan', 50);             ribbonXP.set('RingKing', 100);          ribbonXP.set('RingMaster', 50);
     ribbonXP.set('SleightOfHand', 25);         ribbonXP.set('BulletMagnet', 150);      ribbonXP.set('Sacrifice', 75);
     ribbonXP.set('Sapper', 100);               ribbonXP.set('Sawdust', 100);           ribbonXP.set('SmoothOperator', 75);
