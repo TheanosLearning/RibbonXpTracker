@@ -108,7 +108,7 @@
 | Pistoleer                 	| 75  	| Had the most pistol kills in Versus or Horde.                                                         	|
 | Point Man                 	| 125 	| Picked up the most power in a wave.                                                                   	|
 | Quick Clips               	| 75  	| Had the most perfect active reloads in Versus or Horde.                                               	|
-| Rally                     	| --  	| Won an Escalation match after being behind at half-time.                                              	|
+| Rally                     	| 50  	| Won an Escalation match after being behind at half-time.                                              	|
 | Repair Man                	| 50  	| Spent 1500 Power repairing fortifications.                                                            	|
 | Ring King                 	| 100  	| Captured a ring at least 3 times in a King of the Hill round.                                         	|
 | Ring Master               	| 20/50	| Held a ring for 30 seconds in King of the Hill or Escalation.                                         	|
