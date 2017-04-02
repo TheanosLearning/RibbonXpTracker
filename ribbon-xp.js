@@ -4,7 +4,7 @@ if (window.location.href.includes(gearsStatsUrl)) {
     // create ribbon => xp mapping
     var ribbonXP = new Map();
     ribbonXP.set('1056InProgress', 100);       ribbonXP.set('3rdAndLong', 125);        ribbonXP.set('Annihilation', 50);
-    ribbonXP.set('ApexPredator', 50);          ribbonXP.set('AwwMan', null);           ribbonXP.set('Bagman', 50);
+    ribbonXP.set('ApexPredator', 50);          ribbonXP.set('AwwMan', 50);             ribbonXP.set('Bagman', 50);
     ribbonXP.set('BetterMan', 100);            ribbonXP.set('GrenadeAttach', 75);      ribbonXP.set('BigOlHero', 100);
     ribbonXP.set('BigPoppa', 25);              ribbonXP.set('Boombadier', 50);         ribbonXP.set('Bravado', 25);
     ribbonXP.set('BrotherhoodInBattle', 50);   ribbonXP.set('CarminesStar', 100);      ribbonXP.set('ChainLightning', null);
@@ -15,7 +15,7 @@ if (window.location.href.includes(gearsStatsUrl)) {
     ribbonXP.set('DeathFromBeyond', 25);       ribbonXP.set('Kablooey', 100);          ribbonXP.set('Diversity', 50);
     ribbonXP.set('Downer', 75);                ribbonXP.set('Downtime', 75);           ribbonXP.set('Duelist', 75);
     ribbonXP.set('EqualOpportunity', 50);      ribbonXP.set('Evasive', 100);           ribbonXP.set('Executioner', 125);
-    ribbonXP.set('EyeOnThePrize', 75);       ribbonXP.set('Expendable', 150);        ribbonXP.set('LastKill', 50);
+    ribbonXP.set('EyeOnThePrize', 75);         ribbonXP.set('Expendable', 150);        ribbonXP.set('LastKill', 50);
     ribbonXP.set('Financier', 150);            ribbonXP.set('Aggressor', 150);         ribbonXP.set('FirstBlood', 125);
     ribbonXP.set('FishInABarrel', 100);        ribbonXP.set('GettingItDone', 75);      ribbonXP.set('Gladiator', 75);
     ribbonXP.set('GoOnWithoutMe', 25);         ribbonXP.set('Grenadier', 100);         ribbonXP.set('MostTimeDBNO', 25);
