@@ -11,7 +11,7 @@
 | 3rd and Long              	| 125  	| Killed an enemy by downing that enemy three times in a Versus match.                                  	|
 | Annihilation              	| 50  	| Was on a team where your whole team was alive and the enemy team was all dead in Team Deathmatch.     	|
 | Apex Predator             	| 50  	| Won a Versus match where you were the last man standing.                                              	|
-| Aww Man...                	| --  	| Was in the process of respawning when a Dodgeball match ended.                                        	|
+| Aww Man...                	| 50  	| Was in the process of respawning when a Dodgeball match ended.                                        	|
 | Bagman                    	| 50  	| Killed the leader in a Guardian match.                                                                	|
 | Better Man                	| 100  	| Won a sudden death situation in a Versus match.                                                       	|
 | Big Exit                  	| 75  	| Killed an enemy while grenade tagged.                                                                 	|
