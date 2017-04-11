@@ -150,4 +150,4 @@
 | Well Protected            | 75  | Versus, Horde               | Well Protected75Be the most revived member on your team in Versus or Horde.Versus, Horde             |
 | You’re Welcome!           | 100 | Versus (Dodgeball)          | You’re Welcome!100Brought back two players in a Dodgeball round.Versus (Dodgeball)                   |
 
-** The Ring Master ribbon has been [observed](https://gearsofwar.com/en-us/forums/e9b54fc61eb74ad783d533ca502b0132/threads/ring-master-20xp-or-50xp/db5ac0dd-ba06-4039-957b-9ed809c57b84/posts?page=1) to give 20XP & 50XP
+** The Ring Master ribbon has been [observed](https://gearsofwar.com/en-us/forums/e9b54fc61eb74ad783d533ca502b0132/threads/ring-master-20xp-or-50xp/db5ac0dd-ba06-4039-957b-9ed809c57b84/posts?page=1) to give both 20XP & 50XP.
