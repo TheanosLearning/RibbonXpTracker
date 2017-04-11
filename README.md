@@ -3,7 +3,7 @@
 ![ribbons](https://github.com/TheanosLearning/RibbonXpTracker/raw/master/images/ribbons.jpg)
 
 #### Saves the total XP you earn from ribbons to local storage.
-######
+###### Special Thanks to [JessLL](https://gearsofwar.com/en-us/players/ii%20jessll%20ii)
 
 |           Ribbon          |  XP |             Mode            |                                              Description                                             |
 |:-------------------------:|:---:|:---------------------------:|:----------------------------------------------------------------------------------------------------:|
