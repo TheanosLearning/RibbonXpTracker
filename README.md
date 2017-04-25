@@ -8,7 +8,7 @@
 |           Ribbon          |  XP |             Mode            |                                              Description                                             |
 |:-------------------------:|:---:|:---------------------------:|:----------------------------------------------------------------------------------------------------:|
 | 10-56 In Progress ![logo](https://cdn.gearsofwar.com/gearpacks/warjournal/Ribbons/T_Ribbons_1056InProgress.png)        | 100 | Versus                      | Do damage to an enemy that killed themselves in a Versus match.                                      |
-| 3rd and Long              | 125 | Versus, Horde               | Kill an enemy by downing that enemy three times in a Versus or Horde match.                          |
+| 3rd and Long ![logo](https://cdn.gearsofwar.com/gearpacks/warjournal/Ribbons/T_Ribbons_3rdAndLong.png)             | 125 | Versus, Horde               | Kill an enemy by downing that enemy three times in a Versus or Horde match.                          |
 | Annihilation              | 50  | Versus                      | Be on a team where your whole team is alive and the enemy team is all dead in Team Deathmatch.       |
 | Apex Predator             | 50  | Versus                      | Win a Versus match where you were the last man standing.                                             |
 | Aww Man…                  | 50  | Versus (Dodgeball)          | Be in the process of respawning when a Dodgeball match ended.                                        |
